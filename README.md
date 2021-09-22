@@ -1,11 +1,12 @@
-Pommy is a test, but working project to investigate about vala lang.
+Pommy is a project to investigate about Vala.
 
-It is a simple activity timer implemented as a GTK AppIndicators.
+It's a simple activity timer implemented as a GTK app indicator.
 
+![pommy screenshot](screenshot.png?raw=true)
 
 ## Build
 
-To build the program you need following package installed on your system:
+To build the application you need the following packages installed on your system:
 
 * libgtk-3-dev
 * libappindicator3-dev
