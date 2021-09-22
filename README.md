@@ -17,7 +17,8 @@ Then run `build.sh`
 
 ## Usage
 
-Copy stopwatch.svg icon in `/usr/share/pommy` folder
+1. Build sources or copy `dist/pommy` on your pc.
+2. Copy `icons/stopwatch.svg` icon in `/usr/share/pommy` folder
 
 ```
 pommy DURATION_IN_MINUTES <OPTIONAL_MESSAGE>
@@ -29,4 +30,6 @@ Example
 pommy 25 "BREAK"
 ```
 
+## License
 
+Pommy is released under GPLv3 license.
